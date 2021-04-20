@@ -1,0 +1,14 @@
+@import "./icons-1.4.1/font/bootstrap-icons.css";
+
+@import "helpers.css";
+@import "layout.css";
+@import "product-list.css";
+@import "animations.css";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}

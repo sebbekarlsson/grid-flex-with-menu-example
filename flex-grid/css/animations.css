@@ -1,0 +1,19 @@
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+        color: white
+    }
+
+    50% {
+        color: #44bd32;
+    }
+
+    100% {
+        transform: rotate(360deg);
+        color: white;
+    }
+}
+
+.animation-rotate {
+    animation: rotate 5s infinite;
+}
